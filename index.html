@@ -1,79 +1,8 @@
 <html>
  
-<body id="LoginForm">
-<div class="container">
-<div class="login-form">
-  
-<div class="main-div">
-    <img src="https://dwmbily8o2kmd.cloudfront.net/t/ashokauniversity/content/common/images/Horizontal_Without%20Background.png" alt="ashoka" width="180" height="80">
-    <div class="panel">
-  <div class="container">
-      <div class="header">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-          </ul>
-        </nav>
-        
-       <font face = "Verdana" size = "5">Ashoka University Shuttle Management Portal</font><br />
-      </div>
-   </div>
-    <form id="Login" action="/login" or action="/admin" method="POST">
-      
-     <br><br>
-        <div class="form-group">
-        
+<body>
 
-           <input type="email" name="email" id="email" placeholder="xyz_batch@ashoka.edu.in" required style="height: 45px; width: 250px; border-radius: 8px; font-size: small">
-<br><br>
-        </div>
-        <input list="datetime" placeholder="Choose Shuttle Time" name="shuttletime" required style="height: 45px; width: 250px; border-radius: 8px; font-size: small">
-
-
-<datalist id="datetime">
-  <option value="8:00">
-  <option value="8:30">
-  <option value="9:00">
-  <option value="9:30">
-  <option value="10:00">
-  <option value="10:30">
-  <option value="11:00">
-  <option value="11:30">
-  <option value="12:00">
-  <option value="14:00">
-  <option value="16:00">
-  <option value="17:00">
-  <option value="18:00">
-  <option value="18:30">
-  <option value="19:00">
-  <option value="19:30">
-  <option value="20:00">
-  <option value="20:30">
-  <option value="21:00">
-  <option value="21:30">
-  <option value="22:00">
-  <option value="23:00">
-</datalist>
-
-<br><br>
-        <button type="submit" class="btn btn-primary" value="Log In">Confirm Booking</button>
-        </div>
-        
-    </form>
-    </div></div>
-<a href="https://www.ashoka.edu.in" class="botto-text"> &copy; Ashoka University</a>
-</div>
-{%if users%}
-<div class="users" style="margin-left:20%">
-  <h2>Registered Users List</h2>
-  <table style="width:100%;">
-    {%for user in users%}
-      <tr>
-        <td>{{user}}</td>
-      </tr>   
-    {%endfor%}
-  </table>
-</div>
-{%endif%}
+ Hi! Website Making in Progress. 
 
 </body>
 </html>
