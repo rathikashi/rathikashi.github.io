@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Rathi Kashi",
+    "occupation":"Student of Computer Science",
+    "description":"I am currently pursuing an Advanced Major in Computer Science at Ashoka University",
+    "image":"profilepic.jpg",
+    "bio":"I like to sing, solve puzzles and play Ultimate Frisbee, not necessarily in that order. My primary areas of interest in Computer Science are Computer Security and Machine Learning. I am currently working towards a thesis on Implementing Fast and Secure Garbled Circuits for Secure Two Party Computation.",
+    "contactmessage":"Contact Me",
+    "email": "rathi.s.kashi@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Bangalore",
+      "state":"India",
+      "zip": ""
+    },
+    "website": "https://rathikashi.github.io/",
+    "resumedownload":"https://drive.google.com/file/d/1DxPOrWvJbpE3ujdywQK1CPUuSACeLbjU/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rathi.kashi.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rathikashi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rathhii/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rathikashi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of the skills I picked up in my undergraduate.",
+    "education":[
+      {
+        "school":"Ashoka University",
+        "degree":"BSc. in Computer Science",
+        "graduated":"May 2020",
+        "description":"I attend Ashoka University, a pioneering liberal arts college in India where I majored in Computer Science. I took courses in Theory of Computation, Big Data, Computer Security and Privacy, Advanced Machine Learning, Design and Analysis of Algorithms, Operating Systems, Computer Networks, Programming Languages Design and Implementation, Advanced Programming, Linear Algebra, Discrete Mathematics. I am currently in my senior year completing an Advanced Major in Computer Science where I plan to do a few more courses along with a thesis."
+      }
+    ],
+    "work":[
+      {
+        "company":"Koopid Inc.",
+        "title":"Technical Intern",
+        "years":"June 2018 - Present",
+        "description":"Curate a data corpus that would be trained using Deep learning algorithms. Creating workflows and customer journies for several business verticals. Designing widgets to be used in the workflows using HTML, CSS and JavaScript."
+      },
+      {
+        "company":"Ashoka University",
+        "title":"Teaching Assistant",
+        "years":"Jan 2020 - May 2020",
+        "description":"Served as a Teaching Assistant for a core computer science course, Discrete Mathematics, where I was involved in assisting the professor in curating assignments and grading a class of 100 students. Conducting office hours and sessions to tutor students on concepts in the subject."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Python3",
+        "level":"60%"
+      },
+      {
+        "name":"Tensorflow - Keras",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RAKSHA-FORGE",
+        "category":"A JavaScript based implementation of Garbled Circuits for Secure Two Party Computation",
+        "image":"gc2.jpeg",
+        "url":"https://github.com/shivamag437/RAKSHA-FORGE"
+      },
+      {
+        "title":"Neural Machine Translation",
+        "category":"An LSTM encoder-decoder based model for machine translation from English to Hindi with Attention",
+        "image":"nmt.png",
+        "url":"https://github.com/rathikashi/Eng-Hin-Neural-Machine-Translation"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
