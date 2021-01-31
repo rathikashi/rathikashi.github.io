@@ -66,6 +66,12 @@
     ],
     "work":[
       {
+        "company":"Ashoka University",
+        "title":"Teaching Assistant",
+        "years":"Jan 2021 - Present",
+        "description":"Currently a Teaching Assistant for Digital Humanities under Prof. Johannes Burgers, an interdisciplinary course offered by the Computer Science and English Departments."
+      },
+      {
         "company":"Koopid Inc.",
         "title":"Technical Intern",
         "years":"June 2018 - Present",
@@ -75,7 +81,8 @@
         "company":"Ashoka University",
         "title":"Teaching Assistant",
         "years":"Jan 2020 - May 2020",
-        "description":"Served as a Teaching Assistant for a core computer science course, Discrete Mathematics, where I was involved in assisting the professor in curating assignments and grading a class of 100 students. Conducting office hours and sessions to tutor students on concepts in the subject."
+        "description":"Served as a Teaching Assistant for a core computer science course, Discrete Mathematics under Prof. Goutam Paul, where I was involved in assisting the professor in curating assignments and grading a class of 100 students. Conducting office hours and sessions to tutor students on concepts in the subject."
+        
       }
     ],
     "skills":[
@@ -100,16 +107,12 @@
         "level":"80%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
-      },
-      {
         "name":"Python3",
         "level":"60%"
       },
       {
         "name":"Tensorflow - Keras",
-        "level":"50%"
+        "level":"30%"
       }
     ]
   },
