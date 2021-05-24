@@ -24,13 +24,8 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/rathi_kashi",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
@@ -46,17 +41,18 @@
         "name":"github",
         "url":"https://github.com/rathikashi",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
     "skillmessage":"Some of the skills I picked up in my undergraduate.",
     "education":[
+      {
+        "school":"Ashoka University",
+        "degree":"Post Graduate Diploma in Advanced Studies and Research in Computer Science",
+        "graduated":"May 2021",
+        "description":"I completed an advanced major in Computer Science where I presented a thesis on 'FORGE: A fast online runtime for garbled circuit evaluation' and took courses in Blockchain, Advanced Algorithms, Web Data Modelling, Calculus and Statistical Inference."
+      },
       {
         "school":"Ashoka University",
         "degree":"BSc. in Computer Science",
@@ -109,10 +105,6 @@
       {
         "name":"Python3",
         "level":"60%"
-      },
-      {
-        "name":"Tensorflow - Keras",
-        "level":"30%"
       }
     ]
   },
@@ -129,7 +121,14 @@
         "category":"An LSTM encoder-decoder based model for machine translation from English to Hindi with Attention",
         "image":"nmt.png",
         "url":"https://github.com/rathikashi/Eng-Hin-Neural-Machine-Translation"
+      },
+      {
+        "title":"Genesis Trail",
+        "category":"A distributed Hyperledger Fabric full-stack application for Organic Food Traceability",
+        "image":"nmt.png",
+        "url":"https://github.com/rathikashi/CS2361-project"
       }
+
     ]
   },
   "testimonials":{
